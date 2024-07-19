@@ -4,19 +4,19 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykush21&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykush21" /> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack Development**
+- 🌱 I’m currently learning **MERN Full Stack Developer**
 
 - 📫 How to reach me **https://ajaykush21.github.io/Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajay kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay kushwaha" height="30" width="40" /></a>
-<a href="https://fb.com/ajay kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajay kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/ajaykush21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaykush21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajaykush21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay kushwaha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100047860942109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajay kushwaha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ajay_kush21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaykush21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ajaykush21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajaykush21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajay kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay kushwaha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajaykush21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaykush21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajaykushw4xp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaykushw4xp8" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ajaykushwaha7310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay kushwaha" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ajaykush21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaykush21" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ajaykushw4xp8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaykushw4xp8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
