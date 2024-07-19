@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
 
-- 📫 How to reach me **ajaykushwaha7310@gmail.com**
+- 📫 How to reach me **https://ajaykush21.github.io/Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
